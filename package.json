@@ -28,6 +28,7 @@
   "author": "Mohammad Fares <faressoft.com@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "chalk": "4.1.2",
     "cli-cursor": "^2.1.0",
     "figures": "^2.0.0",
     "inquirer": "^5.1.0",
